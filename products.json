@@ -1,0 +1,34 @@
+[
+  {
+    "title": "Atun",
+    "From": "Italia",
+    "cost": "15$",
+    "stock": 15,
+    "resgistro_sanitario": "1452s",
+    "id": 1
+  },
+  {
+    "title": "Fideos",
+    "From": "Francia",
+    "cost": "12$",
+    "stock": 17,
+    "resgistro_sanitario": "1352a",
+    "id": 2
+  },
+  {
+    "title": "Fideos",
+    "From": "Francia",
+    "cost": "12$",
+    "stock": 17,
+    "resgistro_sanitario": "1352a",
+    "id": 3
+  },
+  {
+    "title": "Lavadora",
+    "From": "Peru",
+    "cost": "125$",
+    "stock": 11,
+    "resgistro_sanitario": "13sa",
+    "id": 4
+  }
+]
